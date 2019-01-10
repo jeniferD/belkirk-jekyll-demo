@@ -5,6 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Welcome to 2019
+- type: heading
   label: Content
 - type: jekyll-posts
   label: Posts
